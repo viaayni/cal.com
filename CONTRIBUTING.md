@@ -13,7 +13,7 @@ Contributions are what makes the open source community such an amazing place to 
     - Issues from non-core members automatically receive the `🚨 needs approval` label.
     - We greatly value new feature ideas. To ensure consistency in the product's direction, they undergo review and approval.
 
-
+#
 
 ## Priorities
 
